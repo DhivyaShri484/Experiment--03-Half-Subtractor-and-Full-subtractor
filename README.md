@@ -61,24 +61,31 @@ assign B = (~X&(Y^Z)|(Y&Z));
 endmodule
 ~~~
 ## Output:
-## RTL realization:
-![github.logo](d3.png)
+## HALF SUBTRACTOR
+## Logic Symbol
+![image](https://user-images.githubusercontent.com/94505585/196101794-4b002880-9d7f-4fd8-bb29-e65e9888bef8.png)
 
 ## Truthtable:
-![github.logo](hst.png)
+![image](https://user-images.githubusercontent.com/94505585/196101843-dc46f029-f2f0-4d2b-9b3c-bbf2f044816c.png)
 
+## RTL realization
+![image](https://user-images.githubusercontent.com/94505585/196101891-2926ea9d-355c-4195-b337-37c4765f38ad.png)
 
-## Timing diagram:
-![github.logo](htd.jpeg)
+## Timing diagram
+![image](https://user-images.githubusercontent.com/94505585/196101933-21fca040-3afe-4eb7-b1d5-6ed020bc254b.png)
 
-## RTL realization:
-![github.logo](d3.1.png)
+## FULL SUBTRACTOR
+## Logic Symbol
+![image](https://user-images.githubusercontent.com/94505585/196101984-e6347ec9-0c4c-44f3-8c9c-b25317c9fdda.png)
 
-## Truthtable:
-![github.logo](ft.png)
+## Truthtable
+![image](https://user-images.githubusercontent.com/94505585/196102022-852206b9-23e3-4a08-99d1-15864baf8aac.png)
 
-## Timing diagram:
-![github.logo](ftd.jpeg)
+## RTL realization
+![image](https://user-images.githubusercontent.com/94505585/196102052-02f41163-1805-4447-bd17-d9d409d4699a.png)
+
+## Timing diagram
+![image](https://user-images.githubusercontent.com/94505585/196102089-b3a8f886-b638-482f-9787-2dd459a6907c.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
